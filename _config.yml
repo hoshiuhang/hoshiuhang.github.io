@@ -1,7 +1,9 @@
 title: Shiu Hang Ho # your name (or website title) here
 logo: "/images/12573049_10206727055267959_2590752690813128514_n.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  This is the 1st description
+  While (dueDate=7, dueDate<assignment.length, dueDate --)
+  <br>
+  {workLikeCrazy};
   <br><br>
   This is the 2nd description 
   <br><br>
